@@ -1,2 +1,2 @@
 # sapiens-ws
-http://sapiens.ws/
+https://sapiens.ws/
